@@ -31,14 +31,14 @@ exclude:
 # twitter:
 #   username: vszhub
 #   card: summary
-logo: logo.png
-social:
-  name: Songzi Vong
-  links:
-    - https://twitter.com/vszhub
-    - https://github.com/vszhub
-google_site_verification: xxxxx
-lang: en
+# logo: logo.png
+# social:
+#   name: XingCai Wu
+#   links:
+#     - https://twitter.com/vszhub
+#     - https://github.com/vszhub
+# google_site_verification: xxxxx
+# lang: en
 
 sass:
   sass_dir: _sass
@@ -54,6 +54,6 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Songzi Vong
-  url: https://github.com/vszhub/
-  email: vszhub@gmail.com
+  name: XingCai Wu
+  url: https://github.com/GaranWu/
+  email: wuxingcai_1231@foxmail.com
